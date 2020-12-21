@@ -1,0 +1,32 @@
+#explication img{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+#jouer{
+    width: 20%;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+  display: block;
+  margin: 30px auto;
+    border: 2px solid black;
+    border-radius: 36px;
+    background-color: white;
+    text-align: center;
+    color: black;
+}
+#jouer:hover{
+    background-color: #f79071;
+}
+#explication h1 {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    padding: 5%;
+
+}
+
+#explication p {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 40px;
+    text-align: center;
+}

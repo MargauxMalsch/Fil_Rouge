@@ -1,0 +1,59 @@
+.formulaire p {
+  
+    text-align: center;
+}
+.formulaire:nth-child(2)
+{
+    background-color: #7ea04d;
+    border: 5px solid black;
+}
+.formulaire{
+    background-color: #f79071;
+    border-radius: 26px;
+    width: 20%;
+    margin: auto;
+    padding: 4%;
+    border: 5px solid black;
+}
+#sondagereponse{
+     
+    width: 100%;
+    margin: auto; 
+    padding-top:50px;
+    padding-bottom:50px;
+    text-align: center;
+
+}
+#msg{
+    padding: 10px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: #7ea04d;
+    border: 2px solid black;
+    color:black;
+}
+
+#sondagereponse h1{
+    text-align: center;
+    padding: 8%;
+}
+h2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#titre{
+    margin: 20px auto;
+    text-align: left;
+}
+ #titre img {
+    width: 30%;
+    padding-bottom: 20px;
+    margin: auto;
+    display: block;
+}

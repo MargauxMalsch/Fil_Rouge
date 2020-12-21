@@ -1,0 +1,19 @@
+{
+    "name": "gomar/sondage-game",
+    "authors": [
+        {
+            "name": "Margaux Malsch",
+            "email": "Margaux.malsch@edu.devinci.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "src/controllers",
+            "Model\\": "src/models",
+            "Core\\": "core",
+            "Core\\Controller\\": "core/controller",
+            "Core\\Model\\": "core/model"
+        }
+    },
+    "require": {}
+}

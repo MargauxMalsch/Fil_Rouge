@@ -1,0 +1,49 @@
+h2{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    padding: 60px;
+
+
+ }
+
+ .section1{
+    background: url(../img/background.jpg) no-repeat;
+    background-size: cover;
+    background-position:center center;
+    padding-bottom: 600px;
+ }
+ .sondage{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+
+
+ }
+ .questions{
+     width: 28%;
+    text-align: center;
+     background-color: #f79071;
+     font-family: 'Raleway', sans-serif;
+     color: white;
+     padding: 20px;
+     border-radius: 20px;
+     margin: 4%;
+
+ }
+ p{
+     width: 100%;
+ }
+
+ a{
+     color: white;
+     text-decoration: none;
+ }
+
+ .noForm {
+     text-align: center;
+     font-size: 30px;
+    font-weight: bold;
+}

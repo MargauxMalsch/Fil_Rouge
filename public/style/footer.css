@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+footer .foot{
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px;
+    padding-top: 20px;
+}
+  
+
+  .réseaux p{
+    margin-top: 0px;
+  }
+  .réseaux {
+    font-size: 0.8em;
+    display: block;
+    background: black;
+    text-align: center;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+  
+  
+  }
+  
+  .réseaux img {
+    width: 2%;
+    margin-bottom: 10px;
+  }
+
+  .hd{
+      text-decoration: none;
+      color: white;
+
+  }
+  .hd:hover{
+    color: #f79071;
+  }
